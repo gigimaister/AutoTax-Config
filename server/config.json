@@ -1,5 +1,4 @@
 {
-  "api_base_url": "https://autotaxtest.rf.gd/api/",
-  "version_url": "https://autotaxtest.rf.gd/version.json",
-  "download_url": "https://autotaxtest.rf.gd/download/AutoTax_Setup.exe"
+  "login_url": "https://autotaxtest.rf.gd/api/login.php",
+  "timeout_seconds": 5
 }
