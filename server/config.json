@@ -1,7 +1,7 @@
 {
-  "api_base_url": "https://autotaxtest.rf.gd/api/",
-  "version_url": "https://autotaxtest.rf.gd/version.json",
-  "download_url": "https://autotaxtest.rf.gd/download/AutoTax_Setup.exe",
-  "login_url": "https://autotaxtest.rf.gd/api/login.php",
-  "token_check_url": "https://autotaxtest.rf.gd/api/check_token.php"
+  "api_base_url": "https://lightcyan-rail-475279.hostingersite.com/api/",
+  "version_url": "https://lightcyan-rail-475279.hostingersite.com/version.json",
+  "download_url": "https://lightcyan-rail-475279.hostingersite.com/download/AutoTax_Setup.exe",
+  "login_url": "https://lightcyan-rail-475279.hostingersite.com/api/login.php",
+  "token_check_url": "https://lightcyan-rail-475279.hostingersite.com/api/validate_token.php"
 }
