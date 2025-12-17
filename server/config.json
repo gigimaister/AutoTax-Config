@@ -3,5 +3,6 @@
   "version_url": "https://lightcyan-rail-475279.hostingersite.com/version.json",
   "download_url": "https://lightcyan-rail-475279.hostingersite.com/download/AutoTax_Setup.exe",
   "login_url": "https://lightcyan-rail-475279.hostingersite.com/api/login.php",
-  "token_check_url": "https://lightcyan-rail-475279.hostingersite.com/api/validate_token.php"
+  "token_check_url": "https://lightcyan-rail-475279.hostingersite.com/api/validate_token.php",
+  "form_liscense_url": "https://lightcyan-rail-475279.hostingersite.com/license-request.html"
 }
