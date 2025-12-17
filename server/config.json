@@ -1,7 +1,7 @@
 {
   "api_base_url": "https://autotaxcalc.net/api/",
   "version_url": "https://autotaxcalc.net/version.json",
-  "download_url": "https://autotaxcalc.net/download/AutoTax_Setup.exe",
+  "download_url": "https://autotaxcalc.net/download/AutoTax.msi",
   "login_url": "https://autotaxcalc.net/api/login.php",
   "token_check_url": "https://autotaxcalc.net/api/validate_token.php",
   "form_liscense_url": "https://autotaxcalc.net/license-request.html"
