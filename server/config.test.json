@@ -1,0 +1,8 @@
+{
+  "api_base_url": "https://autotaxcalc.net/api/",
+  "version_url": "https://autotaxcalc.net/version-test.json",
+  "download_url": "https://autotaxcalc.net/download-test/AutoTax_Setup_Test.exe",
+  "login_url": "https://autotaxcalc.net/api/login.php",
+  "token_check_url": "https://autotaxcalc.net/api/validate_token.php",
+  "form_liscense_url": "https://autotaxcalc.net/license-request.html"
+}
